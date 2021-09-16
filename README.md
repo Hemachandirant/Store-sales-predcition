@@ -1,7 +1,7 @@
 
 # Objective
 Primary aim of this project is to build machine learning model that give the should able to predict the sales of the
-different stores of Big Mart according to the provided dataset.
+different stores  according to the provided dataset.
 
 
 
